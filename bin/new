@@ -1,0 +1,4 @@
+#!/bin/bash
+mkdir $1
+cp bin/template.md $1/$1.md
+emacs $1/$1.md &

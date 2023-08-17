@@ -1,0 +1,47 @@
+#!/usr/bin/env python3
+"""Usage:
+  md2rd <in> [<out>]
+
+"""
+
+import os
+import re
+from docopt import docopt
+arg = docopt(__doc__)
+infile = arg['<in>']
+outfile = arg['<out>']
+handle = infile.split('.')[0]
+if outfile is None: outfile = handle + '.Rd'
+id = re.sub('.*/', '', handle)
+
+rdfile = open(outfile, 'w')
+rdfile.write('\\name{' + id + '}\n')
+rdfile.write('\\docType{data}\n')
+rdfile.write('\\alias{' + id + '}\n')
+rdfile.close()
+
+os.system('pandoc ' + infile + ' -o ' + '.__tmp.tex')
+
+rdfile = open(outfile, 'a')
+for line in open('.__tmp.tex'):
+    #new = re.sub('\\hypertarget{.*}{%\n\\section{(.*)}\\label{.*}}', '\1', line)
+    new = re.sub('\\\\section{.*}}\n', '', line)
+    new = re.sub('\\\\hypertarget{.*}{%\n', '', new)
+    new = re.sub('\\\\label{.*}}\n', '', new)
+    new = new.replace('\\tightlist\n', '').\
+          replace('\\subsection', '\\title').\
+          replace('\\subsubsection{Description}', '\\description{').\
+          replace('\\subsubsection{Dimensions}', '}\n\\section{Dimensions}{').\
+          replace('\\subsubsection{Annotation}', '}\n\\section{Annotation}{').\
+          replace('\\subsubsection{Elements}', '}\n\\format{').\
+          replace('\\subsubsection{Reference}', '}\n\\references{').\
+          replace('\\begin{itemize}', '\itemize{').\
+          replace('\\end{itemize}', '}').\
+          replace('\\begin{quote}', '').\
+          replace('\\end{quote}', '').\
+          replace('\\textbf', '\\bold').\
+          replace('\\texttt', '\\code')
+    rdfile.write(new)
+rdfile.write('}')
+rdfile.close()
+os.remove('.__tmp.tex')
