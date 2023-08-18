@@ -1,4 +1,4 @@
-# <tt>title</tt>
+# `title`
 ## One-liner description
 
 ### Description

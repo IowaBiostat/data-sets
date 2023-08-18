@@ -4,11 +4,13 @@ import shutil
 import tempfile
 from glob import glob
 
-def pandoc(infile, out):
+def pandoc(infile, out, url):
     tmp = tempfile.NamedTemporaryFile(delete=False)
-    #tmp = subprocess.run('tempfile', check=True, stdout=subprocess.PIPE).stdout.decode().strip()
     f = open(tmp.name, 'w')
-    f.write("---\ntitle: Full data description\n---\n\n")
+    f.write('---\n')
+    f.write('title: Full data description\n')
+    f.write(f'url: {url}\n')
+    f.write('---\n\n')
     f.write(open(infile).read())
     f.close()
 
@@ -19,13 +21,20 @@ shutil.copy('bin/style.css', 'docs/style.css')
 
 # Check for valid structure; report on skipped dirs?
 
+index = open('__index.md', 'w')
+
 # Build html for valid dirs
 for infile in glob('*/*.md'):
     name = os.path.basename(infile).split('.')[0]
     if name == 'template': continue
     html_file = 'docs/' + name + '.html'
-    data_file = set(glob(f'{name}/{name}.*')) - {infile}
-    git_url = f'xxx/{data_file}'
-    pandoc(infile, html_file)
-    #os.system("""sed -i 's|</tt></h1>|</tt> <span style="float:right;"><a href=\"""" + s3loc + """"\"><i class="fas fa-download"></i></a></h1>|' """ + outfile)
-    #os.system("""sed -i 's|</code></h1>|</code> <span style="float:right;"><a href=\"""" + s3loc + """"\"><i class="fas fa-download"></i></a></h1>|' """ + outfile)
+    data_file = next(iter(set(glob(f'{name}/{name}.*')) - {infile}))
+    git_url = f'https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{data_file}'
+
+    pandoc(infile, html_file, git_url)
+    index.write(f"* [{name}]({name}.html)\n")
+
+# Make index
+index.close()
+pandoc('__index.md', 'docs/index.html', 'xxx')
+os.remove('__index.md')

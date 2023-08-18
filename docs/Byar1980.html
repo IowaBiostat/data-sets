@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+  <head>
+    <title>Full data description</title>
+    <meta charset="utf-8">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <script defer src="https://use.fontawesome.com/releases/v5.0.4/js/all.js"></script>
+  </head>
+
+  <body>
+    <span style="float:right;">
+      <a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Byar1980/Byar1980.txt">
+        <i class="fas fa-download"></i>
+      </a>
+    </span>
+    <h1 id="byar1980"><code>Byar1980</code></h1>
+    <h2 id="clinical-trial-of-estrogen-for-treatment-of-prostate-cancer">Clinical trial of estrogen for treatment of prostate cancer</h2>
+    <h3 id="description">Description</h3>
+    <p>These data come from a randomized controlled trial in which men with stage 3 or stage 4 prostate cancer were assigned to either a therapy involving estrogen (at various doses) or a placebo.</p>
+    <p>The original data has a small number of missing values. In this version, those values have been imputed with either the median value (for continuous variables) or the most common category (for categorical variables).</p>
+    <h3 id="dimensions">Dimensions</h3>
+    <ul>
+    <li>502 observations</li>
+    <li>17 variables</li>
+    </ul>
+    <h3 id="variables">Variables</h3>
+    <ul>
+    <li><code>Stage</code>: Tumor stage</li>
+    <li><code>Trt</code>: Treatment assigned (0.2 mg estrogen, 1.0 mg estrogen, 5.0 mg estrogen, placebo)</li>
+    <li><code>Time</code>: Time on study (months)</li>
+    <li><code>Status</code>: Status at end of study. One category is <code>alive</code>; all other categories correspond to dead, broken down by cause of death.</li>
+    <li><code>Age</code>: Age in years</li>
+    <li><code>wt</code>: Weight index. Weight (kg) - Height (cm) + 200</li>
+    <li><code>pf</code>: Patient’s activity/performance level (normal activity, in bed &lt; 50% daytime, in bed &gt; 50% daytime, confined to bed)</li>
+    <li><code>hx</code>: History of cardiovascular disease (1=yes, 0=no)</li>
+    <li><code>sbp</code>: Systolic blood pressure (cm Hg)</li>
+    <li><code>dbp</code>: Diastolic blood pressure (cm Hg)</li>
+    <li><code>ekg</code>: Result of electrocardiogram (normal, benign, various disease indicators)</li>
+    <li><code>hg</code>: Serum hemoglobin (g/100mL)</li>
+    <li><code>sz</code>: Size of primary tumor (cm<sup>2</sup>)</li>
+    <li><code>sg</code>: Combined index of tumor stage and grade</li>
+    <li><code>ap</code>: Serum prostatic acid phosphatase (ng/mL)</li>
+    <li><code>bm</code>: Bone metastasis (1=yes, 0=no)</li>
+    <li><code>Date</code>: Calendar date patient was enrolled in study</li>
+    </ul>
+    <h3 id="reference">Reference</h3>
+    <p>I obtained the data from <code>http://biostat.mc.vanderbilt.edu</code>. The original source is</p>
+    <blockquote>
+    <p>Byar DP, Green SB (1980). The choice of treatment for cancer patients based on covariate information. <em>Bulletin du Cancer</em>, <strong>67</strong>:477-488.</p>
+    </blockquote>
+  </body>
+
+</html>
