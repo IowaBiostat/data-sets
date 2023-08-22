@@ -1,0 +1,29 @@
+.navbar {
+    background-color: #ffcd00;
+    border: 0px;
+}
+
+.navbar-default .navbar-brand {
+    color: #000;
+}
+
+#header {
+    display: none;
+}
+
+body {
+    background-color: #333;
+    color: #ddd;
+}
+
+a {
+    color: #ffcd00;
+}
+
+a:hover {
+    color: #ffcd00;
+}
+
+.lightable-material-dark {
+    background-color: #333;
+}
