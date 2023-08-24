@@ -21,3 +21,8 @@ body {
   color: #eee;
 }
 
+i {
+  color: #FFCD00;
+  line-height: 0px;
+  font-size: x-large;
+}
