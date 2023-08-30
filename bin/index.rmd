@@ -1,33 +1,43 @@
 ---
 title: Data sets
-output:
-  html_document:
-    template: template.html
-    self_contained: false
+layout: index
 ---
 
-```{r, echo=FALSE}
+```{r, echo=FALSE, warning=FALSE}
 library(stringr)
 id <- list.files(pattern='*.md', recursive=TRUE) |>
+  str_subset('^_site/', negate=TRUE) |>
   str_subset('^bin/', negate=TRUE) |>
   str_subset('^index/', negate=TRUE) |>
   str_subset('readme.md', negate=TRUE) |>
+  str_subset('index.md', negate=TRUE) |>
   str_extract('.*/(.*)\\.md', 1)
-f <- function(x) {
+auto_ext <- function(x) {
   list.files(x, pattern=str_glue('{x}\\.')) |>
     str_subset('\\.md', negate=TRUE) |>
     tools::file_ext()
 }
-ext <- vapply(id, f, '')
+get_yaml <- function(x, field) {
+  y <- rmarkdown::yaml_front_matter(str_glue('{x}/{x}.md'))
+  if (field %in% names(y)) y[[field]] else NA_character_
+}
+ext <- vapply(id, get_yaml, '', field='ext')
+auto <- vapply(id, auto_ext, '')
+if (!identical(ext, auto)) {
+  stop('mismatch')
+}
+desc <- vapply(id, get_yaml, '', field='desc')
+
 tab <- data.frame(
   Name = id,
-  Desc = 'placeholder',
+  Desc = desc,
   Download = str_glue('<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{id}/{id}.{ext}"><i class="bi-cloud-download"></i></a>'),
-  Info = str_glue('<a href="{id}.html"><i class="bi-file-text"></i></a>')
+  Info = str_glue('<a href="{id}/{id}.html"><i class="bi-file-text"></i></a>')
 )
 
 knitr::kable(
   tab,
+  row.names = FALSE,
   table.attr = "class=\"table table-dark table-striped\"",
   format = "html",
   escape = FALSE,

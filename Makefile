@@ -1,5 +1,3 @@
 docs/index.html: bin/build */*.md
-	bin/build
-	render index/index.rmd
-	mv index/index.html docs/index.html
-	rm -rf index/index_files
+	Rscript -e 'rmarkdown::render("bin/index.rmd", rmarkdown::md_document("gfm", preserve_yaml=TRUE, pandoc_args="--wrap=none"), output_dir=".", quiet=TRUE, knit_root_dir=getwd())'
+	jekyll b

@@ -1,14 +1,13 @@
-# <tt>Freireich1963</tt>
-## Clinical trial of 6-MP in children with acute leukemia
+---
+desc: Clinical trial of 6-MP in children with acute leukemia
+rows: 42
+cols: 5
+ext: txt
+---
 
 ### Description
 
 This data comes from one of the earliest randomized clinical trials of a chemotherapuetic agent, 6-mercaptopurine (6-MP).  The trial was conducted across 11 American hospitals, and involved children with acute leukemia that experienced a complete or partial remission (i.e, all/most of the signs of the disease had disappeared) of their leukemia following treatment with the drug prednisone.  The trial was conducted by matching pairs of patients at a given hospital by remission status (complete or partial) and randomizing within the pair to either a 6-MP or placebo. Patients were followed until their leukemia returned (relapse) or until the end of the study.
-
-### Dimensions
-
-* 42 observations
-* 5 variables
 
 ### Variables
 

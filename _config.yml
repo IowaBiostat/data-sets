@@ -1,0 +1,25 @@
+# Site settings
+baseurl: "./"
+
+# Build settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+exclude:
+  - bin
+  - Makefile
+  - readme.md
+  - "*.R"
+  - "*.r"
+  - "*.txt"
+include:
+  - "*/*.md"
+
+# Defaults
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: "default"

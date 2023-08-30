@@ -1,0 +1,33 @@
+<!doctype html>
+{% assign id = page.name | split: "." | slice: 0 %}
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title> {{id}} </title>
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.10.5/font/bootstrap-icons.css">
+    <link rel="stylesheet" href="../css/style.css">
+    <link rel="shortcut icon" href="../favicon.ico">
+  </head>
+  
+  <body>
+    <h1>
+      <tt> {{id}} </tt>
+      <span style="float:right;">
+        <a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{{id}}/{{id}}.{{page.ext}}"><i class="bi-cloud-download"></i></a>
+      </span>
+    </h1>
+
+    <h2> {{page.desc}} </h2>
+
+    <h3> Dimension </h3>
+
+    <ul>
+      <li> {{page.rows}} instances (rows) </li>
+      <li> {{page.cols}} features (columns) </li>
+    </ul>
+
+    {{ content }}
+    
+  </body>
+</html>
+

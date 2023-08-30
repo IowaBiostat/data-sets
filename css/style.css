@@ -2,7 +2,7 @@ body, td {
     font-family: sans-serif;
     background-color: #333;
     color: #ddd;
-    font-size: 13px;
+    font-size: 16px;
 }
 
 body {
@@ -17,11 +17,11 @@ tt, code, pre {
 }
 
 a {
-    color:#00a7e6;
+    color: #ffcd00;
     text-decoration:none;
 }
 a:hover {
-    color: #00a7e6;
+    color: #ffcd00;
     text-decoration: none;
 }
 h1 {
@@ -61,10 +61,6 @@ code {
     font-size: 92%;
 }
 
-code[class] {
-    background-color: #F8F8F8;
-}
-
 table, td, th {
     border: none;
 }
@@ -73,7 +69,7 @@ blockquote {
     color:#999999;
     margin:0;
     padding-left: 1em;
-    border-left: 0.5em #EEE solid;
+    border-left: 0.2em #999 solid;
 }
 
 hr {
@@ -82,4 +78,8 @@ hr {
     border-top-width: thin;
     border-top-style: dotted;
     border-top-color: #999999;
+}
+
+a:hover .bi-cloud-download:before {
+    content: "\F29A";
 }

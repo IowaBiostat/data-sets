@@ -1,14 +1,13 @@
-# <tt>britdoc</tt>
-## Smoking deaths in British doctors
+---
+desc: Smoking deaths in British doctors
+rows: 10
+cols: 4
+ext: txt
+---
 
 ### Description
 
-The British Doctors' Study was the first large prospective cohort study to examine the health consequences of smoking.  In 1951, British doctors were sent a brief questionnaire about whether they smoked tobacco. Since then, information about their deaths has been collected.  This data set records the number of deaths and person-years of follow-up in various categories 10 years after the initial questionnaire was sent out.  
-
-### Dimensions
-
-* 10 observations
-* 4 variables
+The British Doctors' Study was the first large prospective cohort study to examine the health consequences of smoking.  In 1951, British doctors were sent a brief questionnaire about whether they smoked tobacco. Since then, information about their deaths has been collected.  This data set records the number of deaths and person-years of follow-up in various categories 10 years after the initial questionnaire was sent out.
 
 ### Variables
 

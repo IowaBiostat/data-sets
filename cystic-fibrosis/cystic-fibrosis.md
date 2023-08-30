@@ -1,5 +1,9 @@
-# <tt>cystic-fibrosis</tt>
-## Reduction in forced vital capacity for cystic fibrosis patients
+---
+desc: Reduction in forced vital capacity for cystic fibrosis patients
+rows: 14
+cols: 2
+ext: txt
+---
 
 ### Description
 
@@ -12,11 +16,6 @@ To measure lung function, the researchers used forced vital capacity (FVC), whic
 Reduction in FVC = Initial FVC - Final FVC
 
 The data set contains each patient's reduction in FVC for each treatment period.
-
-### Dimensions
-
-* 14 observations
-* 2 variables
 
 ### Variables
 

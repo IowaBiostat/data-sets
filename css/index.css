@@ -26,3 +26,11 @@ i {
   line-height: 0px;
   font-size: x-large;
 }
+
+a:hover .bi-file-text:before {
+    content: "\F3B8";
+}
+
+a:hover .bi-cloud-download:before {
+    content: "\F29A";
+}

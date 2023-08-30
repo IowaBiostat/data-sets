@@ -1,16 +1,15 @@
-# <tt>flicker</tt>
-## Critical flicker frequency for individuals with various eye colors
+---
+desc: Critical flicker frequency for individuals with various eye colors
+rows: 19
+cols: 2
+ext: txt
+---
 
 ### Description
 
 An individual's critical flicker frequency is the highest frequency at which the flicker in a flickering light source can be detected. At frequencies above the critical frequency, the light source appears to be continuous even though it is actually flickering. This study recorded critical flicker frequency and iris color for 19 subjects.
 
 Note: The original paper describes a sample of 56 subjects.  The data here come from the book by Devore, which list only 19 subjects.  I have no idea what accounts for the discrepancy.
-
-### Dimensions
-
-* 19 observations
-* 2 variables
 
 ### Variables
 
