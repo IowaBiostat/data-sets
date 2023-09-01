@@ -1,0 +1,8 @@
+#!/bin/bash
+# Convert $$ to $ if not at beginning/end of line
+
+if [[ $# -ge 1 ]]; then
+  perl -i ${@:1:$#-1} ~/dat/bin/clean-md.pl ${@: -1}
+else
+  perl ~/dat/bin/clean-md.pl $1
+fi

@@ -1,0 +1,5 @@
+#!/bin/bash
+grep --color '<tt>' */*.md
+grep --color '<i>' */*.md
+grep --color '<em>' */*.md
+grep --color '<b>' */*.md

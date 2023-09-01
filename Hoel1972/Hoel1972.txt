@@ -1,0 +1,182 @@
+Group	Cause	Time
+Control	Thymic lymphoma	159
+Control	Thymic lymphoma	189
+Control	Thymic lymphoma	191
+Control	Thymic lymphoma	198
+Control	Thymic lymphoma	200
+Control	Thymic lymphoma	207
+Control	Thymic lymphoma	220
+Control	Thymic lymphoma	235
+Control	Thymic lymphoma	245
+Control	Thymic lymphoma	250
+Control	Thymic lymphoma	256
+Control	Thymic lymphoma	261
+Control	Thymic lymphoma	265
+Control	Thymic lymphoma	266
+Control	Thymic lymphoma	280
+Control	Thymic lymphoma	343
+Control	Thymic lymphoma	356
+Control	Thymic lymphoma	383
+Control	Thymic lymphoma	403
+Control	Thymic lymphoma	414
+Control	Thymic lymphoma	428
+Control	Thymic lymphoma	432
+Control	Reticulum cell sarcoma	317
+Control	Reticulum cell sarcoma	318
+Control	Reticulum cell sarcoma	399
+Control	Reticulum cell sarcoma	495
+Control	Reticulum cell sarcoma	525
+Control	Reticulum cell sarcoma	536
+Control	Reticulum cell sarcoma	549
+Control	Reticulum cell sarcoma	552
+Control	Reticulum cell sarcoma	554
+Control	Reticulum cell sarcoma	337
+Control	Reticulum cell sarcoma	558
+Control	Reticulum cell sarcoma	571
+Control	Reticulum cell sarcoma	586
+Control	Reticulum cell sarcoma	594
+Control	Reticulum cell sarcoma	596
+Control	Reticulum cell sarcoma	605
+Control	Reticulum cell sarcoma	612
+Control	Reticulum cell sarcoma	621
+Control	Reticulum cell sarcoma	628
+Control	Reticulum cell sarcoma	631
+Control	Reticulum cell sarcoma	636
+Control	Reticulum cell sarcoma	643
+Control	Reticulum cell sarcoma	647
+Control	Reticulum cell sarcoma	648
+Control	Reticulum cell sarcoma	649
+Control	Reticulum cell sarcoma	661
+Control	Reticulum cell sarcoma	663
+Control	Reticulum cell sarcoma	666
+Control	Reticulum cell sarcoma	670
+Control	Reticulum cell sarcoma	695
+Control	Reticulum cell sarcoma	697
+Control	Reticulum cell sarcoma	700
+Control	Reticulum cell sarcoma	705
+Control	Reticulum cell sarcoma	712
+Control	Reticulum cell sarcoma	713
+Control	Reticulum cell sarcoma	738
+Control	Reticulum cell sarcoma	748
+Control	Reticulum cell sarcoma	753
+Control	Other	40
+Control	Other	42
+Control	Other	51
+Control	Other	62
+Control	Other	163
+Control	Other	179
+Control	Other	206
+Control	Other	222
+Control	Other	228
+Control	Other	252
+Control	Other	249
+Control	Other	282
+Control	Other	324
+Control	Other	333
+Control	Other	341
+Control	Other	366
+Control	Other	385
+Control	Other	407
+Control	Other	420
+Control	Other	431
+Control	Other	441
+Control	Other	461
+Control	Other	462
+Control	Other	482
+Control	Other	517
+Control	Other	517
+Control	Other	524
+Control	Other	564
+Control	Other	567
+Control	Other	586
+Control	Other	619
+Control	Other	620
+Control	Other	621
+Control	Other	622
+Control	Other	647
+Control	Other	651
+Control	Other	686
+Control	Other	761
+Control	Other	763
+Germ-free	Thymic lymphoma	158
+Germ-free	Thymic lymphoma	192
+Germ-free	Thymic lymphoma	193
+Germ-free	Thymic lymphoma	194
+Germ-free	Thymic lymphoma	195
+Germ-free	Thymic lymphoma	202
+Germ-free	Thymic lymphoma	212
+Germ-free	Thymic lymphoma	215
+Germ-free	Thymic lymphoma	229
+Germ-free	Thymic lymphoma	230
+Germ-free	Thymic lymphoma	237
+Germ-free	Thymic lymphoma	240
+Germ-free	Thymic lymphoma	244
+Germ-free	Thymic lymphoma	247
+Germ-free	Thymic lymphoma	259
+Germ-free	Thymic lymphoma	300
+Germ-free	Thymic lymphoma	301
+Germ-free	Thymic lymphoma	321
+Germ-free	Thymic lymphoma	337
+Germ-free	Thymic lymphoma	415
+Germ-free	Thymic lymphoma	434
+Germ-free	Thymic lymphoma	444
+Germ-free	Thymic lymphoma	485
+Germ-free	Thymic lymphoma	496
+Germ-free	Thymic lymphoma	529
+Germ-free	Thymic lymphoma	537
+Germ-free	Thymic lymphoma	624
+Germ-free	Thymic lymphoma	707
+Germ-free	Thymic lymphoma	800
+Germ-free	Reticulum cell sarcoma	430
+Germ-free	Reticulum cell sarcoma	590
+Germ-free	Reticulum cell sarcoma	606
+Germ-free	Reticulum cell sarcoma	638
+Germ-free	Reticulum cell sarcoma	655
+Germ-free	Reticulum cell sarcoma	679
+Germ-free	Reticulum cell sarcoma	691
+Germ-free	Reticulum cell sarcoma	693
+Germ-free	Reticulum cell sarcoma	696
+Germ-free	Reticulum cell sarcoma	747
+Germ-free	Reticulum cell sarcoma	752
+Germ-free	Reticulum cell sarcoma	760
+Germ-free	Reticulum cell sarcoma	778
+Germ-free	Reticulum cell sarcoma	821
+Germ-free	Reticulum cell sarcoma	986
+Germ-free	Other	136
+Germ-free	Other	246
+Germ-free	Other	255
+Germ-free	Other	376
+Germ-free	Other	421
+Germ-free	Other	565
+Germ-free	Other	616
+Germ-free	Other	617
+Germ-free	Other	652
+Germ-free	Other	655
+Germ-free	Other	658
+Germ-free	Other	660
+Germ-free	Other	662
+Germ-free	Other	675
+Germ-free	Other	681
+Germ-free	Other	734
+Germ-free	Other	736
+Germ-free	Other	737
+Germ-free	Other	757
+Germ-free	Other	769
+Germ-free	Other	777
+Germ-free	Other	800
+Germ-free	Other	807
+Germ-free	Other	825
+Germ-free	Other	855
+Germ-free	Other	857
+Germ-free	Other	864
+Germ-free	Other	868
+Germ-free	Other	870
+Germ-free	Other	870
+Germ-free	Other	873
+Germ-free	Other	882
+Germ-free	Other	895
+Germ-free	Other	910
+Germ-free	Other	934
+Germ-free	Other	942
+Germ-free	Other	1015
+Germ-free	Other	1019

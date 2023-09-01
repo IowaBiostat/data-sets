@@ -175,5 +175,159 @@ Cardiac fumarate concentrations for wild-type/knockdown mice exposed/unexposed t
 <a href="fumarate/fumarate.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+glioma
+</td>
+<td style="text-align:left;">
+Array CGH data of a glioblastoma tumor
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/glioma/glioma.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="glioma/glioma.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+hedenfalk
+</td>
+<td style="text-align:left;">
+Gene expression study of BRCA tumors in breast cancer patients
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hedenfalk/hedenfalk.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="hedenfalk/hedenfalk.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Hoel1972
+</td>
+<td style="text-align:left;">
+Time until death for mice exposed to radiation
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Hoel1972/Hoel1972.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Hoel1972/Hoel1972.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+hypercalcemia
+</td>
+<td style="text-align:left;">
+Plasma prostaglandin E in patients with and without hypercalcemia
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hypercalcemia/hypercalcemia.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="hypercalcemia/hypercalcemia.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+infant-heart
+</td>
+<td style="text-align:left;">
+Trial comparing two techniques for congenital heart surgery on physical and mental development
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infant-heart/infant-heart.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="infant-heart/infant-heart.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+infmort
+</td>
+<td style="text-align:left;">
+Global infant mortality rates by country
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infmort/infmort.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="infmort/infmort.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+inhaler
+</td>
+<td style="text-align:left;">
+Crossover study of inhaler device instructions
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/inhaler/inhaler.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="inhaler/inhaler.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+lead-iq
+</td>
+<td style="text-align:left;">
+IQ levels for children who lived near or far (within 1 mile) from a lead smelter
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lead-iq/lead-iq.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="lead-iq/lead-iq.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+lip-cancer
+</td>
+<td style="text-align:left;">
+Observed and expected cases of lip cancer in Scotland, 1975-1980
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lip-cancer/lip-cancer.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="lip-cancer/lip-cancer.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+lipids
+</td>
+<td style="text-align:left;">
+Levels of triglycerides, LDL cholesterol, and Apolipoprotein B for adult women (NHANES)
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lipids/lipids.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="lipids/lipids.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+mortality
+</td>
+<td style="text-align:left;">
+Deaths by age and year for the United States, 1933-2010
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/mortality/mortality.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="mortality/mortality.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
 </tbody>
 </table>

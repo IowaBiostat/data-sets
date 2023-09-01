@@ -1,0 +1,196 @@
+Country	Rate	Region
+Afghanistan	48	Asia
+Albania	8	Europe
+Algeria	20	Middle East
+Andorra	3	Europe
+Angola	52	Africa
+Antigua and Barbuda	5	Americas
+Argentina	9	Americas
+Armenia	11	Europe
+Australia	3	Asia
+Austria	3	Europe
+Azerbaijan	19	Europe
+Bahamas	8	Americas
+Bahrain	6	Middle East
+Bangladesh	25	Asia
+Barbados	11	Americas
+Belarus	3	Europe
+Belgium	3	Europe
+Belize	11	Americas
+Benin	61	Africa
+Bhutan	25	Asia
+Bolivia	22	Americas
+Bosnia and Herzegovina	5	Europe
+Botswana	30	Africa
+Brazil	13	Americas
+Brunei Darussalam	10	Asia
+Bulgaria	6	Europe
+Burkina Faso	49	Africa
+Burundi	41	Africa
+Cabo Verde	17	Africa
+Cambodia	24	Asia
+Cameroon	51	Africa
+Canada	4	Americas
+Central African Republic	84	Africa
+Chad	71	Africa
+Chile	6	Americas
+China	7	Asia
+Colombia	12	Americas
+Comoros	51	Africa
+Congo	36	Africa
+Cook Islands	7	Asia
+Costa Rica	8	Americas
+Croatia	4	Europe
+Cuba	4	Americas
+Cyprus	2	Europe
+Czechia	3	Europe
+Côte d'Ivoire	59	Africa
+North Korea	14	Asia
+Democratic Republic of the Congo	68	Africa
+Denmark	4	Europe
+Djibouti	50	Africa
+Dominica	33	Americas
+Dominican Republic	24	Americas
+Ecuador	12	Americas
+Egypt	18	Middle East
+El Salvador	12	Americas
+Equatorial Guinea	63	Africa
+Eritrea	31	Africa
+Estonia	2	Europe
+Eswatini	43	Africa
+Ethiopia	39	Africa
+Fiji	22	Asia
+Finland	1	Europe
+France	3	Europe
+Gabon	33	Africa
+Gambia	39	Africa
+Georgia	9	Europe
+Germany	3	Europe
+Ghana	35	Africa
+Greece	4	Europe
+Grenada	14	Americas
+Guatemala	22	Americas
+Guinea	65	Africa
+Guinea-Bissau	54	Africa
+Guyana	25	Americas
+Haiti	49	Americas
+Honduras	15	Americas
+Hungary	4	Europe
+Iceland	2	Europe
+India	30	Asia
+Indonesia	21	Asia
+Iran	12	Middle East
+Iraq	22	Middle East
+Ireland	3	Europe
+Israel	3	Middle East
+Italy	3	Europe
+Jamaica	12	Americas
+Japan	2	Asia
+Jordan	14	Middle East
+Kazakhstan	9	Europe
+Kenya	31	Africa
+Kiribati	41	Asia
+Kuwait	7	Middle East
+Kyrgyzstan	17	Europe
+Laos	38	Asia
+Latvia	3	Europe
+Lebanon	6	Middle East
+Lesotho	66	Africa
+Liberia	53	Africa
+Libya	10	Middle East
+Lithuania	3	Europe
+Luxembourg	2	Europe
+Macedonia	9	Europe
+Madagascar	38	Africa
+Malawi	35	Africa
+Malaysia	7	Asia
+Maldives	7	Asia
+Mali	62	Africa
+Malta	6	Europe
+Marshall Islands	27	Asia
+Mauritania	52	Africa
+Mauritius	14	Africa
+Mexico	11	Americas
+Micronesia	26	Asia
+Monaco	3	Europe
+Mongolia	14	Asia
+Montenegro	2	Europe
+Morocco	19	Middle East
+Mozambique	54	Africa
+Myanmar	37	Asia
+Namibia	29	Africa
+Nauru	26	Asia
+Nepal	27	Asia
+Netherlands	3	Europe
+New Zealand	5	Asia
+Nicaragua	16	Americas
+Niger	48	Africa
+Nigeria	76	Africa
+Niue	20	Asia
+Norway	2	Europe
+Oman	10	Middle East
+Pakistan	57	Asia
+Palau	17	Asia
+Panama	13	Americas
+Papua New Guinea	38	Asia
+Paraguay	17	Americas
+Peru	11	Americas
+Philippines	22	Asia
+Poland	4	Europe
+Portugal	3	Europe
+Qatar	6	Middle East
+South Korea	3	Asia
+Republic of Moldova	14	Europe
+Romania	6	Europe
+Russian Federation	6	Europe
+Rwanda	27	Africa
+Saint Kitts and Nevis	10	Americas
+Saint Lucia	15	Americas
+Saint Vincent and the Grenadines	15	Americas
+Samoa	14	Asia
+San Marino	2	Europe
+Sao Tome and Principe	24	Africa
+Saudi Arabia	6	Middle East
+Senegal	32	Africa
+Serbia	5	Europe
+Seychelles	12	Africa
+Sierra Leone	78	Africa
+Singapore	2	Asia
+Slovakia	5	Europe
+Slovenia	2	Europe
+Solomon Islands	17	Asia
+Somalia	77	Africa
+South Africa	28	Africa
+South Sudan	64	Africa
+Spain	3	Europe
+Sri Lanka	6	Asia
+State of Palestine	17	Middle East
+Sudan	42	Africa
+Suriname	17	Americas
+Sweden	2	Europe
+Switzerland	4	Europe
+Syrian Arab Republic	14	Middle East
+Tajikistan	30	Asia
+Thailand	8	Asia
+Timor-Leste	39	Asia
+Togo	47	Africa
+Tonga	13	Asia
+Trinidad and Tobago	16	Americas
+Tunisia	15	Middle East
+Turkey	9	Europe
+Turkmenistan	39	Asia
+Tuvalu	21	Asia
+Uganda	34	Africa
+Ukraine	7	Europe
+United Arab Emirates	6	Middle East
+United Kingdom	4	Europe
+Tanzania	38	Africa
+United States	6	Americas
+Uruguay	6	Americas
+Uzbekistan	19	Europe
+Vanuatu	22	Asia
+Venezuela	21	Americas
+Viet Nam	16	Asia
+Yemen	43	Middle East
+Zambia	40	Africa
+Zimbabwe	34	Africa
