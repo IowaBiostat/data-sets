@@ -329,5 +329,145 @@ Deaths by age and year for the United States, 1933-2010
 <a href="mortality/mortality.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Nahman1992
+</td>
+<td style="text-align:left;">
+Time to exit-site infection in dialysis patients
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Nahman1992/Nahman1992.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Nahman1992/Nahman1992.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+nerve
+</td>
+<td style="text-align:left;">
+Waiting times between pulses along a nerve fiber
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nerve/nerve.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="nerve/nerve.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+nhanes-am
+</td>
+<td style="text-align:left;">
+Heights and weights of adult men in the 2005-2006 NHANES sample
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-am/nhanes-am.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="nhanes-am/nhanes-am.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+nhanes-aw
+</td>
+<td style="text-align:left;">
+Heights and weights of adult women in the 2005-2006 NHANES sample
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-aw/nhanes-aw.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="nhanes-aw/nhanes-aw.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+nhanes-subsamples
+</td>
+<td style="text-align:left;">
+Mean triglyceride levels in random subsamples of the `lipids` data set
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-subsamples/nhanes-subsamples.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="nhanes-subsamples/nhanes-subsamples.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+oatbran
+</td>
+<td style="text-align:left;">
+Crossover study of whether oat bran lowers LDL cholesterol
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/oatbran/oatbran.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="oatbran/oatbran.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+parkinsons
+</td>
+<td style="text-align:left;">
+Genetic association study of age-at-onset in patients with Parkinson’s disease
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/parkinsons/parkinsons.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="parkinsons/parkinsons.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+pearson
+</td>
+<td style="text-align:left;">
+Heights of fathers and sons
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/pearson/pearson.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="pearson/pearson.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Pike1966
+</td>
+<td style="text-align:left;">
+Days to vaginal cancer mortality in rats
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Pike1966/Pike1966.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Pike1966/Pike1966.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Podzielinski2012
+</td>
+<td style="text-align:left;">
+Mortality and recurrence in medically operable endometrial cancer
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Podzielinski2012/Podzielinski2012.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Podzielinski2012/Podzielinski2012.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
 </tbody>
 </table>
