@@ -469,5 +469,159 @@ Mortality and recurrence in medically operable endometrial cancer
 <a href="Podzielinski2012/Podzielinski2012.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Sachs2005
+</td>
+<td style="text-align:left;">
+Protein expression levels in immune cells
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Sachs2005/Sachs2005.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Sachs2005/Sachs2005.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Samaha2003
+</td>
+<td style="text-align:left;">
+Effect of Low-Carb and Low-Fat Diets on triglyceride levels
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Samaha2003/Samaha2003.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Samaha2003/Samaha2003.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Scrucca2010
+</td>
+<td style="text-align:left;">
+Relapse and death in acute leukemia patients following stem cell transplantation
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Scrucca2010/Scrucca2010.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Scrucca2010/Scrucca2010.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+sids
+</td>
+<td style="text-align:left;">
+Sex and age at time of death for infants who died of SIDS (Seattle, 1973-1982)
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/sids/sids.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="sids/sids.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+support
+</td>
+<td style="text-align:left;">
+Data from SUPPORT study to predict survival in critically ill patients
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/support/support.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="support/support.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+tailgating
+</td>
+<td style="text-align:left;">
+Association between drug use and tailgating behavior in young people
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tailgating/tailgating.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="tailgating/tailgating.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+tdap
+</td>
+<td style="text-align:left;">
+Study of Tdap vaccine and premature birth
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tdap/tdap.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="tdap/tdap.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+tips
+</td>
+<td style="text-align:left;">
+Tips received by a waiter over a several-month period at a restaurant
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tips/tips.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="tips/tips.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+titanic
+</td>
+<td style="text-align:left;">
+Survival of passengers on board the Titanic
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/titanic/titanic.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="titanic/titanic.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+warming
+</td>
+<td style="text-align:left;">
+Land-Ocean Temperature Index (1880-2018)
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/warming/warming.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="warming/warming.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+whickham
+</td>
+<td style="text-align:left;">
+Smoking versus survival among British women, based on 20 years of follow up
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/whickham/whickham.txt"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="whickham/whickham.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
 </tbody>
 </table>
