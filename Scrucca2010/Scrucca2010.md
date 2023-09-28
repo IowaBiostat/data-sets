@@ -3,6 +3,7 @@ desc: Relapse and death in acute leukemia patients following stem cell transplan
 rows: 177
 cols: 7
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Scrucca2010/Scrucca2010.txt')"
 ---
 
 ### Description

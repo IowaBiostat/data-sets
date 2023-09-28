@@ -3,6 +3,7 @@ desc: Crossover study of whether oat bran lowers LDL cholesterol
 rows: 14
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/oatbran/oatbran.txt')"
 ---
 
 ### Description

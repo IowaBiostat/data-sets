@@ -3,6 +3,7 @@ desc: Survival and GVHD in aplastic anemia patients receiving marrow transplanta
 rows: 46
 cols: 5
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/anemia/anemia.txt')"
 ---
 
 ### Description

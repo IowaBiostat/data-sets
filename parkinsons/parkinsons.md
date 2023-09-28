@@ -3,6 +3,7 @@ desc: Genetic association study of age-at-onset in patients with Parkinson's dis
 rows: 431
 cols: 4
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/parkinsons/parkinsons.txt')"
 ---
 
 ### Description

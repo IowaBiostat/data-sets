@@ -3,6 +3,7 @@ desc: Gene expression study of BRCA tumors in breast cancer patients
 rows: 21
 cols: 3226
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hedenfalk/hedenfalk.txt')"
 ---
 
 ### Description

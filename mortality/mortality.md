@@ -3,6 +3,7 @@ desc: Deaths by age and year for the United States, 1933-2010
 rows: 8659
 cols: 5
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/mortality/mortality.txt')"
 ---
 
 ### Description

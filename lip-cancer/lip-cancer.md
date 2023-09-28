@@ -3,6 +3,7 @@ desc: Observed and expected cases of lip cancer in Scotland, 1975-1980
 rows: 56
 cols: 5
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lip-cancer/lip-cancer.txt')"
 ---
 
 ### Description

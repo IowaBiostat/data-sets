@@ -3,6 +3,7 @@ desc: IQ levels for children who lived near or far (within 1 mile) from a lead s
 rows: 124
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lead-iq/lead-iq.txt')"
 ---
 
 ### Description

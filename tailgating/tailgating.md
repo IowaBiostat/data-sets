@@ -3,6 +3,7 @@ desc: Association between drug use and tailgating behavior in young people
 rows: 119
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tailgating/tailgating.txt')"
 ---
 
 ### Description

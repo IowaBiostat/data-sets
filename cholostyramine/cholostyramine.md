@@ -3,6 +3,7 @@ desc: Impact of compliance on cholesterol reduction in cholostyramine trial
 rows: 164
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cholostyramine/cholostyramine.txt')"
 ---
 
 ### Description

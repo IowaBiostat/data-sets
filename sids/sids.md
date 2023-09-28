@@ -3,6 +3,7 @@ desc: Sex and age at time of death for infants who died of SIDS (Seattle, 1973-1
 rows: 16
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/sids/sids.txt')"
 ---
 
 ### Description

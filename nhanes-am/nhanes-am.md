@@ -3,6 +3,7 @@ desc: Heights and weights of adult men in the 2005-2006 NHANES sample
 rows: 2458
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-am/nhanes-am.txt')"
 ---
 
 ### Description

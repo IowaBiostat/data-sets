@@ -3,6 +3,7 @@ desc: Mortality and recurrence in medically operable endometrial cancer
 rows: 74
 cols: 4
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Podzielinski2012/Podzielinski2012.txt')"
 ---
 
 ### Description

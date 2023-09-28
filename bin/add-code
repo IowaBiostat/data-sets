@@ -1,0 +1,22 @@
+#!/usr/bin/env python3
+"""Add read.delim() code to yaml
+
+Usage: add-code <files>...
+"""
+
+from docopt import docopt
+arg = docopt(__doc__)
+import os
+
+# Coerce to list
+if isinstance(arg['<files>'], str):
+    ff = [arg['<files>']]
+else:
+    ff = arg['<files>']
+
+#Loop over files
+for f in ff:
+    name = os.path.splitext(os.path.basename(f))[0]
+    code = f"read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{name}/{name}.txt')"
+    cmd = r"""perl -p0i -e "s|---\n\n|code: \"""" + code + r"""\"\n---\n\n|" """+ f
+    os.system(cmd)

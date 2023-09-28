@@ -84,3 +84,57 @@ hr {
 a:hover .bi-cloud-download:before {
     content: "\F29A";
 }
+
+
+a:hover .bi-clipboard:before {
+    content: "\F71D";
+}
+
+#copy-button {
+  position: relative;
+  margin-right: 15px;
+}
+
+#popup {
+  visibility: hidden;
+  width: 120px;
+  margin-left: -60px;
+  background-color: black;
+  color: #ddd;
+  text-align: center;
+  border-radius: 6px;
+  position: absolute;
+  z-index: 1;
+  padding: 6px;
+  bottom: 40px;
+  left: 50%;
+  font-size: 0.4em;
+  line-height: 0.6em;
+  font-weight: normal;
+}
+
+#popup.show {
+  visibility: visible;
+  -webkit-animation: fadein 0.5s, fadeout 0.5s 1.5s;
+  animation: fadein 0.5s, fadeout 0.5s 1.5s;
+}
+
+@-webkit-keyframes fadein {
+  from {bottom: 20px; opacity: 0;}
+  to {bottom: 40px; opacity: 1;}
+}
+
+@keyframes fadein {
+  from {bottom: 20px; opacity: 0;}
+  to {bottom: 40px; opacity: 1;}
+}
+
+@-webkit-keyframes fadeout {
+  from {bottom: 40px; opacity: 1;}
+  to {bottom: 20px; opacity: 0;}
+}
+
+@keyframes fadeout {
+  from {bottom: 40px; opacity: 1;}
+  to {bottom: 20px; opacity: 0;}
+}

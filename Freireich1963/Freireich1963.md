@@ -3,6 +3,7 @@ desc: Clinical trial of 6-MP in children with acute leukemia
 rows: 42
 cols: 5
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Freireich1963/Freireich1963.txt')"
 ---
 
 ### Description

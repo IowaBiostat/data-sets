@@ -3,6 +3,7 @@ desc: Critical flicker frequency for individuals with various eye colors
 rows: 19
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/flicker/flicker.txt')"
 ---
 
 ### Description

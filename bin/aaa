@@ -1,0 +1,8 @@
+#!/bin/bash
+# Add read.delim() code to yaml
+
+base=$(basename -- $1)
+name="${base%.*}"
+echo $name
+echo "s/---\n\n/code: \"read.delim(\'https://raw.githubusercontent.com/IowaBiostat/data-sets/main/$name/$name.txt\')\"\n---\n\n/"
+perl -p0i -e "s/---\n\n/code: \"read.delim(\'https://raw.githubusercontent.com/IowaBiostat/data-sets/main/$name/$name.txt\')\"\n---\n\n/" $1

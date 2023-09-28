@@ -3,6 +3,7 @@ desc: Reduction in forced vital capacity for cystic fibrosis patients
 rows: 14
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cystic-fibrosis/cystic-fibrosis.txt')"
 ---
 
 ### Description

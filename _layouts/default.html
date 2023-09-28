@@ -13,6 +13,11 @@
     <h1>
       <tt> {{id}} </tt>
       <span style="float:right;">
+        <a href="#" id="copy-button" onclick="copyToClipboard()">
+          <i class="bi-clipboard"></i>
+          <span hidden id="clip-code">{{page.code}}</span>
+          <span id="popup" class='hide'>code copied</span>
+        </a>
         <a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{{id}}/{{id}}.{{page.ext}}"><i class="bi-cloud-download"></i></a>
       </span>
     </h1>
@@ -29,5 +34,6 @@
     {{ content }}
     
   </body>
+  <script src="../copy.js"></script>  
 </html>
 

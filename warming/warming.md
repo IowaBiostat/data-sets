@@ -3,6 +3,7 @@ desc: Land-Ocean Temperature Index (1880-2018)
 rows: 139
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/warming/warming.txt')"
 ---
 
 ### Description

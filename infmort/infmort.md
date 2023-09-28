@@ -3,6 +3,7 @@ desc: Global infant mortality rates by country
 rows: 195
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infmort/infmort.txt')"
 ---
 
 ### Description

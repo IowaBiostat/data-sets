@@ -3,6 +3,7 @@ desc: Crossover study of inhaler device instructions
 rows: 286
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/inhaler/inhaler.txt')"
 ---
 
 ### Description

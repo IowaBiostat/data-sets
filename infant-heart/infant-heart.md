@@ -3,6 +3,7 @@ desc: Trial comparing two techniques for congenital heart surgery on physical an
 rows: 143
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infant-heart/infant-heart.txt')"
 ---
 
 ### Description

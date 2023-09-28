@@ -3,6 +3,7 @@ desc: Heights of fathers and sons
 rows: 1078
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/pearson/pearson.txt')"
 ---
 
 ### Description

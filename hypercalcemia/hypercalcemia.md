@@ -3,6 +3,7 @@ desc: Plasma prostaglandin E in patients with and without hypercalcemia
 rows: 21
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hypercalcemia/hypercalcemia.txt')"
 ---
 
 ### Description

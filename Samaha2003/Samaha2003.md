@@ -3,6 +3,7 @@ desc: Effect of Low-Carb and Low-Fat Diets on triglyceride levels
 rows: 79
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Samaha2003/Samaha2003.txt')"
 ---
 
 ### Description

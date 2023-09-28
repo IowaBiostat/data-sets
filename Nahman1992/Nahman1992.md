@@ -3,6 +3,7 @@ desc: Time to exit-site infection in dialysis patients
 rows: 119
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Nahman1992/Nahman1992.txt')"
 ---
 
 ### Description

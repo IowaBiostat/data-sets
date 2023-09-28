@@ -3,6 +3,7 @@ desc: Protein expression levels in immune cells
 rows: 7466
 cols: 11
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Sachs2005/Sachs2005.txt')"
 ---
 
 ### Description

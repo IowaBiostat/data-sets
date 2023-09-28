@@ -3,6 +3,7 @@ desc: Tips received by a waiter over a several-month period at a restaurant
 rows: 244
 cols: 7
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tips/tips.txt')"
 ---
 
 ### Description

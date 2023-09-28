@@ -3,6 +3,7 @@ desc: Survival of passengers on board the Titanic
 rows: 2201
 cols: 4
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/titanic/titanic.txt')"
 ---
 
 ### Description

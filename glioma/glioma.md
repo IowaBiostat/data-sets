@@ -3,6 +3,7 @@ desc: Array CGH data of a glioblastoma tumor
 rows: 1
 cols: 990
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/glioma/glioma.txt')"
 ---
 
 Note that since there is only 1 instance, the data is simply stored a numeric vector.

@@ -3,6 +3,7 @@ desc: Levels of triglycerides, LDL cholesterol, and Apolipoprotein B for adult w
 rows: 3026
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lipids/lipids.txt')"
 ---
 
 ### Description

@@ -3,6 +3,7 @@ desc: Study of Tdap vaccine and premature birth
 rows: 1000
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tdap/tdap.txt')"
 ---
 
 ### Description

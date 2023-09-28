@@ -3,6 +3,7 @@ desc: Heights and weights of adult women in the 2005-2006 NHANES sample
 rows: 2649
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-aw/nhanes-aw.txt')"
 ---
 
 ### Description

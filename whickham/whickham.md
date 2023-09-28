@@ -3,6 +3,7 @@ desc: Smoking versus survival among British women, based on 20 years of follow u
 rows: 1314
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/whickham/whickham.txt')"
 ---
 
 ### Description

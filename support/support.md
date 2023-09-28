@@ -3,6 +3,7 @@ desc: Data from SUPPORT study to predict survival in critically ill patients
 rows: 1227
 cols: 22
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/support/support.txt')"
 ---
 
 ### Description

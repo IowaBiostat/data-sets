@@ -3,6 +3,7 @@ desc: Smoking deaths in British doctors
 rows: 10
 cols: 4
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/britdoc/britdoc.txt')"
 ---
 
 ### Description

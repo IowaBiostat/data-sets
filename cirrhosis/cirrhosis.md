@@ -3,6 +3,7 @@ desc: Does penicillamine prevent liver failure in patients with primary biliary 
 rows: 312
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cirrhosis/cirrhosis.txt')"
 ---
 
 ### Description

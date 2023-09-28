@@ -3,6 +3,7 @@ desc: Waiting times between pulses along a nerve fiber
 rows: 799
 cols: 1
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nerve/nerve.txt')"
 ---
 
 ### Description

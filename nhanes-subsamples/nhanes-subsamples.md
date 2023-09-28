@@ -3,6 +3,7 @@ desc: Mean triglyceride levels in random subsamples of the `lipids` data set
 rows: 1000
 cols: 3
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-subsamples/nhanes-subsamples.txt')"
 ---
 
 ### Description

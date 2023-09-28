@@ -3,6 +3,7 @@ desc: Relationship between household endotoxin levels and sensitivity to allerge
 rows: 61
 cols: 2
 ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/allergen/allergen.txt')"
 ---
 
 ### Description
