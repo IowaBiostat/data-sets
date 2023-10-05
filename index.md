@@ -499,6 +499,20 @@ Effect of Low-Carb and Low-Fat Diets on triglyceride levels
 </tr>
 <tr>
 <td style="text-align:left;">
+Scheetz2006
+</td>
+<td style="text-align:left;">
+Gene expression in the mammalian eye
+</td>
+<td style="text-align:center;">
+<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Scheetz2006/Scheetz2006.rds"><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Scheetz2006/Scheetz2006.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Scrucca2010
 </td>
 <td style="text-align:left;">
