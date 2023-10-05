@@ -3,7 +3,7 @@ desc: Gene expression in the mammalian eye
 rows: 120
 cols: 18975
 ext: rds
-code: "readRDS('https://github.com/IowaBiostat/data-sets/raw/main/Scheetz2006/Scheetz2006.rds')"
+code: "readRDS(url('https://github.com/IowaBiostat/data-sets/raw/main/Scheetz2006/Scheetz2006.rds'))"
 ---
 
 ### Description
