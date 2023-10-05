@@ -29,7 +29,7 @@ allergen
 Relationship between household endotoxin levels and sensitivity to allergens
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/allergen/allergen.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/allergen/allergen.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="allergen/allergen.html"><i class="bi-file-text"></i></a>
@@ -43,7 +43,7 @@ anemia
 Survival and GVHD in aplastic anemia patients receiving marrow transplantation
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/anemia/anemia.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/anemia/anemia.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="anemia/anemia.html"><i class="bi-file-text"></i></a>
@@ -57,7 +57,7 @@ britdoc
 Smoking deaths in British doctors
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/britdoc/britdoc.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/britdoc/britdoc.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="britdoc/britdoc.html"><i class="bi-file-text"></i></a>
@@ -71,7 +71,7 @@ Byar1980
 Clinical trial of estrogen for treatment of prostate cancer
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Byar1980/Byar1980.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Byar1980/Byar1980.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Byar1980/Byar1980.html"><i class="bi-file-text"></i></a>
@@ -85,7 +85,7 @@ cholostyramine
 Impact of compliance on cholesterol reduction in cholostyramine trial
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cholostyramine/cholostyramine.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/cholostyramine/cholostyramine.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="cholostyramine/cholostyramine.html"><i class="bi-file-text"></i></a>
@@ -99,7 +99,7 @@ cirrhosis
 Does penicillamine prevent liver failure in patients with primary biliary cirrhosis
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cirrhosis/cirrhosis.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/cirrhosis/cirrhosis.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="cirrhosis/cirrhosis.html"><i class="bi-file-text"></i></a>
@@ -113,7 +113,7 @@ cystic-fibrosis
 Reduction in forced vital capacity for cystic fibrosis patients
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/cystic-fibrosis/cystic-fibrosis.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/cystic-fibrosis/cystic-fibrosis.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="cystic-fibrosis/cystic-fibrosis.html"><i class="bi-file-text"></i></a>
@@ -127,7 +127,7 @@ diarrhea
 Randomized controlled trial of whether bismuth salicylate reduces symptoms of diarrhea in infants
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/diarrhea/diarrhea.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/diarrhea/diarrhea.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="diarrhea/diarrhea.html"><i class="bi-file-text"></i></a>
@@ -141,7 +141,7 @@ flicker
 Critical flicker frequency for individuals with various eye colors
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/flicker/flicker.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/flicker/flicker.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="flicker/flicker.html"><i class="bi-file-text"></i></a>
@@ -155,7 +155,7 @@ Freireich1963
 Clinical trial of 6-MP in children with acute leukemia
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Freireich1963/Freireich1963.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Freireich1963/Freireich1963.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Freireich1963/Freireich1963.html"><i class="bi-file-text"></i></a>
@@ -169,7 +169,7 @@ fumarate
 Cardiac fumarate concentrations for wild-type/knockdown mice exposed/unexposed to adriamycin
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/fumarate/fumarate.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/fumarate/fumarate.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="fumarate/fumarate.html"><i class="bi-file-text"></i></a>
@@ -183,7 +183,7 @@ glioma
 Array CGH data of a glioblastoma tumor
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/glioma/glioma.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/glioma/glioma.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="glioma/glioma.html"><i class="bi-file-text"></i></a>
@@ -197,7 +197,7 @@ hedenfalk
 Gene expression study of BRCA tumors in breast cancer patients
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hedenfalk/hedenfalk.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/hedenfalk/hedenfalk.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="hedenfalk/hedenfalk.html"><i class="bi-file-text"></i></a>
@@ -211,7 +211,7 @@ Hoel1972
 Time until death for mice exposed to radiation
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Hoel1972/Hoel1972.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Hoel1972/Hoel1972.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Hoel1972/Hoel1972.html"><i class="bi-file-text"></i></a>
@@ -225,7 +225,7 @@ hypercalcemia
 Plasma prostaglandin E in patients with and without hypercalcemia
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/hypercalcemia/hypercalcemia.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/hypercalcemia/hypercalcemia.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="hypercalcemia/hypercalcemia.html"><i class="bi-file-text"></i></a>
@@ -239,7 +239,7 @@ infant-heart
 Trial comparing two techniques for congenital heart surgery on physical and mental development
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infant-heart/infant-heart.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/infant-heart/infant-heart.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="infant-heart/infant-heart.html"><i class="bi-file-text"></i></a>
@@ -253,7 +253,7 @@ infmort
 Global infant mortality rates by country
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/infmort/infmort.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/infmort/infmort.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="infmort/infmort.html"><i class="bi-file-text"></i></a>
@@ -267,7 +267,7 @@ inhaler
 Crossover study of inhaler device instructions
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/inhaler/inhaler.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/inhaler/inhaler.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="inhaler/inhaler.html"><i class="bi-file-text"></i></a>
@@ -281,7 +281,7 @@ lead-iq
 IQ levels for children who lived near or far (within 1 mile) from a lead smelter
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lead-iq/lead-iq.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/lead-iq/lead-iq.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="lead-iq/lead-iq.html"><i class="bi-file-text"></i></a>
@@ -295,7 +295,7 @@ lip-cancer
 Observed and expected cases of lip cancer in Scotland, 1975-1980
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lip-cancer/lip-cancer.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/lip-cancer/lip-cancer.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="lip-cancer/lip-cancer.html"><i class="bi-file-text"></i></a>
@@ -309,7 +309,7 @@ lipids
 Levels of triglycerides, LDL cholesterol, and Apolipoprotein B for adult women (NHANES)
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/lipids/lipids.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/lipids/lipids.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="lipids/lipids.html"><i class="bi-file-text"></i></a>
@@ -323,7 +323,7 @@ mortality
 Deaths by age and year for the United States, 1933-2010
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/mortality/mortality.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/mortality/mortality.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="mortality/mortality.html"><i class="bi-file-text"></i></a>
@@ -337,7 +337,7 @@ Nahman1992
 Time to exit-site infection in dialysis patients
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Nahman1992/Nahman1992.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Nahman1992/Nahman1992.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Nahman1992/Nahman1992.html"><i class="bi-file-text"></i></a>
@@ -351,7 +351,7 @@ nerve
 Waiting times between pulses along a nerve fiber
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nerve/nerve.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/nerve/nerve.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="nerve/nerve.html"><i class="bi-file-text"></i></a>
@@ -365,7 +365,7 @@ nhanes-am
 Heights and weights of adult men in the 2005-2006 NHANES sample
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-am/nhanes-am.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/nhanes-am/nhanes-am.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="nhanes-am/nhanes-am.html"><i class="bi-file-text"></i></a>
@@ -379,7 +379,7 @@ nhanes-aw
 Heights and weights of adult women in the 2005-2006 NHANES sample
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-aw/nhanes-aw.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/nhanes-aw/nhanes-aw.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="nhanes-aw/nhanes-aw.html"><i class="bi-file-text"></i></a>
@@ -393,7 +393,7 @@ nhanes-subsamples
 Mean triglyceride levels in random subsamples of the `lipids` data set
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/nhanes-subsamples/nhanes-subsamples.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/nhanes-subsamples/nhanes-subsamples.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="nhanes-subsamples/nhanes-subsamples.html"><i class="bi-file-text"></i></a>
@@ -407,7 +407,7 @@ oatbran
 Crossover study of whether oat bran lowers LDL cholesterol
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/oatbran/oatbran.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/oatbran/oatbran.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="oatbran/oatbran.html"><i class="bi-file-text"></i></a>
@@ -421,7 +421,7 @@ parkinsons
 Genetic association study of age-at-onset in patients with Parkinson’s disease
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/parkinsons/parkinsons.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/parkinsons/parkinsons.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="parkinsons/parkinsons.html"><i class="bi-file-text"></i></a>
@@ -435,7 +435,7 @@ pearson
 Heights of fathers and sons
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/pearson/pearson.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/pearson/pearson.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="pearson/pearson.html"><i class="bi-file-text"></i></a>
@@ -449,7 +449,7 @@ Pike1966
 Days to vaginal cancer mortality in rats
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Pike1966/Pike1966.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Pike1966/Pike1966.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Pike1966/Pike1966.html"><i class="bi-file-text"></i></a>
@@ -463,7 +463,7 @@ Podzielinski2012
 Mortality and recurrence in medically operable endometrial cancer
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Podzielinski2012/Podzielinski2012.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Podzielinski2012/Podzielinski2012.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Podzielinski2012/Podzielinski2012.html"><i class="bi-file-text"></i></a>
@@ -477,7 +477,7 @@ Sachs2005
 Protein expression levels in immune cells
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Sachs2005/Sachs2005.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Sachs2005/Sachs2005.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Sachs2005/Sachs2005.html"><i class="bi-file-text"></i></a>
@@ -491,7 +491,7 @@ Samaha2003
 Effect of Low-Carb and Low-Fat Diets on triglyceride levels
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Samaha2003/Samaha2003.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Samaha2003/Samaha2003.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Samaha2003/Samaha2003.html"><i class="bi-file-text"></i></a>
@@ -505,7 +505,7 @@ Scheetz2006
 Gene expression in the mammalian eye
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Scheetz2006/Scheetz2006.rds"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Scheetz2006/Scheetz2006.rds?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Scheetz2006/Scheetz2006.html"><i class="bi-file-text"></i></a>
@@ -519,7 +519,7 @@ Scrucca2010
 Relapse and death in acute leukemia patients following stem cell transplantation
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/Scrucca2010/Scrucca2010.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Scrucca2010/Scrucca2010.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="Scrucca2010/Scrucca2010.html"><i class="bi-file-text"></i></a>
@@ -533,7 +533,7 @@ sids
 Sex and age at time of death for infants who died of SIDS (Seattle, 1973-1982)
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/sids/sids.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/sids/sids.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="sids/sids.html"><i class="bi-file-text"></i></a>
@@ -547,7 +547,7 @@ support
 Data from SUPPORT study to predict survival in critically ill patients
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/support/support.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/support/support.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="support/support.html"><i class="bi-file-text"></i></a>
@@ -561,7 +561,7 @@ tailgating
 Association between drug use and tailgating behavior in young people
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tailgating/tailgating.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/tailgating/tailgating.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="tailgating/tailgating.html"><i class="bi-file-text"></i></a>
@@ -575,7 +575,7 @@ tdap
 Study of Tdap vaccine and premature birth
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tdap/tdap.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/tdap/tdap.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="tdap/tdap.html"><i class="bi-file-text"></i></a>
@@ -589,7 +589,7 @@ tips
 Tips received by a waiter over a several-month period at a restaurant
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tips/tips.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/tips/tips.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="tips/tips.html"><i class="bi-file-text"></i></a>
@@ -603,7 +603,7 @@ titanic
 Survival of passengers on board the Titanic
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/titanic/titanic.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/titanic/titanic.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="titanic/titanic.html"><i class="bi-file-text"></i></a>
@@ -617,7 +617,7 @@ warming
 Land-Ocean Temperature Index (1880-2018)
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/warming/warming.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/warming/warming.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="warming/warming.html"><i class="bi-file-text"></i></a>
@@ -631,7 +631,7 @@ whickham
 Smoking versus survival among British women, based on 20 years of follow up
 </td>
 <td style="text-align:center;">
-<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/whickham/whickham.txt"><i class="bi-cloud-download"></i></a>
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/whickham/whickham.txt?download="><i class="bi-cloud-download"></i></a>
 </td>
 <td style="text-align:center;">
 <a href="whickham/whickham.html"><i class="bi-file-text"></i></a>

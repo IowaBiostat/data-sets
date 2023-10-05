@@ -31,7 +31,7 @@ desc <- vapply(id, get_yaml, '', field='desc')
 tab <- data.frame(
   Name = id,
   Desc = desc,
-  Download = str_glue('<a href="https://raw.githubusercontent.com/IowaBiostat/data-sets/main/{id}/{id}.{ext}"><i class="bi-cloud-download"></i></a>'),
+  Download = str_glue('<a href="https://github.com/IowaBiostat/data-sets/raw/main/{id}/{id}.{ext}?download="><i class="bi-cloud-download"></i></a>'),
   Info = str_glue('<a href="{id}/{id}.html"><i class="bi-file-text"></i></a>')
 )
 
