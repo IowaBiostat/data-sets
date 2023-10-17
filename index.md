@@ -51,6 +51,20 @@ Survival and GVHD in aplastic anemia patients receiving marrow transplantation
 </tr>
 <tr>
 <td style="text-align:left;">
+brca1
+</td>
+<td style="text-align:left;">
+Breast cancer gene expression data from The Cancer Genome Atlas
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/brca1/brca1.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="brca1/brca1.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 britdoc
 </td>
 <td style="text-align:left;">
