@@ -233,6 +233,20 @@ Gene expression in leukemia patients
 </tr>
 <tr>
 <td style="text-align:left;">
+gvhd
+</td>
+<td style="text-align:left;">
+Time until graft vs. host disease in bone marrow transplant recipients
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/gvhd/gvhd.txt?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="gvhd/gvhd.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 hedenfalk
 </td>
 <td style="text-align:left;">
@@ -317,6 +331,20 @@ Crossover study of inhaler device instructions
 </tr>
 <tr>
 <td style="text-align:left;">
+Koussounadis2014
+</td>
+<td style="text-align:left;">
+Carbotax study of ovarian tumor growth
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Koussounadis2014/Koussounadis2014.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Koussounadis2014/Koussounadis2014.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 lead-iq
 </td>
 <td style="text-align:left;">
@@ -355,6 +383,20 @@ Levels of triglycerides, LDL cholesterol, and Apolipoprotein B for adult women (
 </td>
 <td style="text-align:center;">
 <a href="lipids/lipids.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+lister
+</td>
+<td style="text-align:left;">
+Joseph Lister’s experiment on sterile surgery
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/lister/lister.txt?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="lister/lister.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
 <tr>
@@ -509,6 +551,48 @@ Mortality and recurrence in medically operable endometrial cancer
 </td>
 <td style="text-align:center;">
 <a href="Podzielinski2012/Podzielinski2012.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+pollution
+</td>
+<td style="text-align:left;">
+Air pollution and mortality in US metropolitan areas
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/pollution/pollution.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="pollution/pollution.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Ramaswamy2001
+</td>
+<td style="text-align:left;">
+Multiclass cancer prediction involving 14 tumor types
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Ramaswamy2001/Ramaswamy2001.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Ramaswamy2001/Ramaswamy2001.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Rhee2006
+</td>
+<td style="text-align:left;">
+HIV Drug Resistance Mutations
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Rhee2006/Rhee2006.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Rhee2006/Rhee2006.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
 <tr>
