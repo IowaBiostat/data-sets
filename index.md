@@ -205,6 +205,34 @@ Array CGH data of a glioblastoma tumor
 </tr>
 <tr>
 <td style="text-align:left;">
+Gode2011
+</td>
+<td style="text-align:left;">
+Surface sensing in swarming bacteria
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Gode2011/Gode2011.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Gode2011/Gode2011.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Golub1999
+</td>
+<td style="text-align:left;">
+Gene expression in leukemia patients
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Golub1999/Golub1999.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Golub1999/Golub1999.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 hedenfalk
 </td>
 <td style="text-align:left;">

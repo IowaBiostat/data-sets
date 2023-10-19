@@ -24,7 +24,9 @@ get_yaml <- function(x, field) {
 ext <- vapply(id, get_yaml, '', field='ext')
 auto <- vapply(id, auto_ext, '')
 if (!identical(ext, auto)) {
-  stop('mismatch')
+  bad <- names(which(ext != auto))
+  msg <- paste(c('File type mismatches detected for', bad), collapse='\n  ')
+  stop(msg, call.=FALSE)
 }
 desc <- vapply(id, get_yaml, '', field='desc')
 
