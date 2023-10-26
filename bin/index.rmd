@@ -13,9 +13,12 @@ id <- list.files(pattern='*.md', recursive=TRUE) |>
   str_subset('index.md', negate=TRUE) |>
   str_extract('.*/(.*)\\.md', 1)
 auto_ext <- function(x) {
-  list.files(x, pattern=str_glue('{x}\\.')) |>
+  out <- list.files(x, pattern=str_glue('{x}\\.')) |>
     str_subset('\\.md', negate=TRUE) |>
     tools::file_ext()
+  if (length(out) == 0) stop(str_glue('No files detected for: {x}'), call.=FALSE )
+  if (length(out) > 1) stop(str_glue('Multiple files detected for: {x}'), call.=FALSE)
+  out
 }
 get_yaml <- function(x, field) {
   y <- rmarkdown::yaml_front_matter(str_glue('{x}/{x}.md'))

@@ -639,6 +639,20 @@ Gene expression in the mammalian eye
 </tr>
 <tr>
 <td style="text-align:left;">
+Scholtens2004
+</td>
+<td style="text-align:left;">
+Response of ER+ breast cancer cell lines to estrogen
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Scholtens2004/Scholtens2004.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Scholtens2004/Scholtens2004.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 Scrucca2010
 </td>
 <td style="text-align:left;">
@@ -653,6 +667,20 @@ Relapse and death in acute leukemia patients following stem cell transplantation
 </tr>
 <tr>
 <td style="text-align:left;">
+Shedden2008
+</td>
+<td style="text-align:left;">
+Survival analysis of lung cancer patients
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Shedden2008/Shedden2008.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Shedden2008/Shedden2008.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
 sids
 </td>
 <td style="text-align:left;">
@@ -663,6 +691,34 @@ Sex and age at time of death for infants who died of SIDS (Seattle, 1973-1982)
 </td>
 <td style="text-align:center;">
 <a href="sids/sids.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+Singh2002
+</td>
+<td style="text-align:left;">
+Case-control study of prostate cancer
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Singh2002/Singh2002.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Singh2002/Singh2002.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+spam
+</td>
+<td style="text-align:left;">
+Classification of e-mail into spam
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/spam/spam.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="spam/spam.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
 <tr>
@@ -761,6 +817,20 @@ Smoking versus survival among British women, based on 20 years of follow up
 </td>
 <td style="text-align:center;">
 <a href="whickham/whickham.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
+<tr>
+<td style="text-align:left;">
+whoari
+</td>
+<td style="text-align:left;">
+World Health Organization study on acute respiratory illnesses
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/whoari/whoari.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="whoari/whoari.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
 </tbody>
