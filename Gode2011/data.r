@@ -24,4 +24,4 @@ geneInfo <- Raw[,2]
 names(geneInfo) <- Raw[,1]
 geneInfo <- geneInfo[rownames(Y)]
 
-saveRDS(list(expCond=expCond, Y=Y, geneInfo=geneInfo), file='../dat/Gode2011.rds')
+saveRDS(list(expCond=expCond, Y=Y, geneInfo=geneInfo), file='Gode2011.rds')

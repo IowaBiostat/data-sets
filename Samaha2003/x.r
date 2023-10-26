@@ -52,4 +52,4 @@ for (i in 1:10000) {
 seed <- which.min(Badness); min(Badness) # 3786
 seed <- 1641
 Data <- gen(seed, dist='l')[sample(1:.N)][order(Group)]
-fwrite(Data, file='../dat/Samaha2003.txt', sep='\t')
+fwrite(Data, file='Samaha2003.txt', sep='\t')

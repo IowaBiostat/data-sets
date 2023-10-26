@@ -52,7 +52,7 @@ DT[Country=="United Republic of Tanzania", Country := "Tanzania"]
 
 # Export
 file.remove('sowc.xlsx')
-fwrite(DT, file='../dat/infmort2019.txt', sep='\t')
+fwrite(DT, file='infmort.txt', sep='\t')
 stop()
 
 # Exploratory stuff

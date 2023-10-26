@@ -27,4 +27,4 @@ get("1389163_at", rat2302GENENAME)
 get("1389163_at", rat2302CHR)
 
 # Save
-saveRDS(list(X=X, y=y, fData=fData), "../dat/Scheetz2006.rds")
+saveRDS(list(X=X, y=y, fData=fData), "Scheetz2006.rds")

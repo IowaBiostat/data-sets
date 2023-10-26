@@ -25,4 +25,4 @@ DF1 <- as.data.frame.table(Y)
 DF2 <- DF1[rep(row.names(DF1), DF1$Freq), 1:3]
 DT <- as.data.table(DF2)
 names(DT) <- c('Group', 'Period1', 'Period2')
-data.table::fwrite(DT, '../dat/inhaler.txt', sep='\t')
+data.table::fwrite(DT, 'inhaler.txt', sep='\t')
