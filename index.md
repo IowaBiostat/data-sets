@@ -833,5 +833,19 @@ World Health Organization study on acute respiratory illnesses
 <a href="whoari/whoari.html"><i class="bi-file-text"></i></a>
 </td>
 </tr>
+<tr>
+<td style="text-align:left;">
+Yeoh2002
+</td>
+<td style="text-align:left;">
+Classification of acute lymphoblastic leukemia subtypes
+</td>
+<td style="text-align:center;">
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/Yeoh2002/Yeoh2002.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+<td style="text-align:center;">
+<a href="Yeoh2002/Yeoh2002.html"><i class="bi-file-text"></i></a>
+</td>
+</tr>
 </tbody>
 </table>
