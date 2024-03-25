@@ -3,7 +3,7 @@ desc: Change in weight for anorexia patients
 rows: 72
 cols: 3
 ext: txt
-code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/xxx/xxx.txt')"
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/anorexia/anorexia.txt')"
 ---
 
 ### Description
