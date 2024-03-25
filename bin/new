@@ -1,4 +1,5 @@
 #!/bin/bash
 mkdir $1
 cp bin/template.md $1/$1.md
+perl -pi -e "s|main/xxx/xxx|main/$1/$1/|" $1/$1.md
 emacs $1/$1.md &
