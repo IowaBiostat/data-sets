@@ -1,14 +1,14 @@
-# `title`
-## One-liner description
+---
+desc: A short description
+rows: n
+cols: p
+ext: txt
+code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/xxx/xxx.txt')"
+---
 
 ### Description
 
 Study design, background, etc.
-
-### Dimensions
-
-* n observations
-* p variables
 
 ### Variables
 
