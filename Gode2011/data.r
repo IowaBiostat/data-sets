@@ -1,7 +1,5 @@
-# scp hpc-data:/Shared/Fisher/archive/old-dat/mccarter/exp/expression-values.RData ./
-# load('expression-values.RData')
-# scp hpc-data:/Shared/Fisher/archive/old-dat/mccarter/meta/geneDescriptions.txt ./
-# Raw <- read.delim('geneDescriptions.txt', stringsAsFactors=FALSE)
+load('~/lss/Fisher/archive/old/dat/mccarter/exp/expression-values.RData')
+Raw <- read.delim('~/lss/Fisher/archive/old/dat/mccarter/meta/geneDescriptions.txt', stringsAsFactors=FALSE)
 E <- expression.values@E
 conditions <- c("TP","OP","TL","OL")
 ind <- list(c(1,2),c(4,5),c(8,9),c(10,11))
@@ -16,8 +14,9 @@ Y <- E[,unlist(ind)]
 colnames(Y) <- paste0(rep(conditions, each=2), rep(1:2, 4))
 
 # expCond
-expCond <- data.frame(Environment=rep(c('plate', 'liquid'), each=4),
-                Celltype=rep(rep(c('swarmer', 'swimmer'), each=2), 2))
+expCond <- data.frame(
+  Environment = factor(rep(c('plate', 'liquid'), each=4), levels = c('liquid', 'plate')),
+  Celltype = factor(rep(rep(c('swarmer', 'swimmer'), each=2), 2), levels = c('swimmer', 'swarmer')))
 
 # Annotation
 geneInfo <- Raw[,2]
