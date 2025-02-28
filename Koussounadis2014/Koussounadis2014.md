@@ -16,7 +16,7 @@ For this study, there were 34,694 features with expression data and a sample siz
 
 ### Elements
 
-* `y`: Relative tumor volume.  Measurements on on the log2 scale so that y=1 means that the tumor has doubled in size since baseline.  By definition, y=0 for all samples taken at day 0.
+* `y`: Relative tumor volume.  Measurements are on the log2 scale so that y=1 means that the tumor has doubled in size since baseline.  By definition, y=0 for all samples taken at day 0.
 * `X`: Gene expression measurements
 * `sData`: Data frame containing additional information about the experimental conditions for each sample.
   * `Treatment`: Treatment received (Carbo, CarboTax, Control)
