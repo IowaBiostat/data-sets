@@ -375,6 +375,30 @@ Cardiac fumarate concentrations for wild-type/knockdown mice exposed/unexposed t
 
 <td style="text-align:left;">
 
+glcamd
+</td>
+
+<td style="text-align:left;">
+
+Genetic association study of glaucoma and macular degeneration
+</td>
+
+<td style="text-align:center;">
+
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/glcamd/glcamd.rds?download="><i class="bi-cloud-download"></i></a>
+</td>
+
+<td style="text-align:center;">
+
+<a href="glcamd/glcamd.html"><i class="bi-file-text"></i></a>
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 glioma
 </td>
 
