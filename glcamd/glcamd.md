@@ -3,7 +3,7 @@ desc: Genetic association study of glaucoma and macular degeneration
 rows: 800
 cols: 699
 ext: rds
-code: "readRDS('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/glcamd/glcamd.rds')"
+code: "readRDS(url('https://github.com/IowaBiostat/data-sets/raw/main/glcamd/glcamd.rds'))"
 ---
 
 ### Description
@@ -27,4 +27,4 @@ may play a role in AMD.
 
 ### Reference
 
-> Scheetz TE, Fingert JH, Wang K, Kuehn MH, Knudtson KL, Alward WLM, Boldt HC, Russell SR, Folk JC, Casavant TL Braun TA, Clark AF, Stone EM, and Sheffield VC (2013). A Genome-Wide Association Study for Primary Open Angle Glaucoma and Macular Degeneration Reveals Novel Loci. *PLOS ONE* **8**: e58657. https://doi.org/10.1371/journal.pone.0058657
+> Scheetz TE, Fingert JH, Wang K, Kuehn MH, Knudtson KL, Alward WLM, Boldt HC, Russell SR, Folk JC, Casavant TL Braun TA, Clark AF, Stone EM, and Sheffield VC (2013). A Genome-Wide Association Study for Primary Open Angle Glaucoma and Macular Degeneration Reveals Novel Loci. *PLOS ONE* **8**: e58657. <https://doi.org/10.1371/journal.pone.0058657>
