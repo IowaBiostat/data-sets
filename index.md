@@ -1455,6 +1455,30 @@ Survival of passengers on board the Titanic
 
 <td style="text-align:left;">
 
+tukey
+</td>
+
+<td style="text-align:left;">
+
+An image of John Tukey
+</td>
+
+<td style="text-align:center;">
+
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/tukey/tukey.txt?download="><i class="bi-cloud-download"></i></a>
+</td>
+
+<td style="text-align:center;">
+
+<a href="tukey/tukey.html"><i class="bi-file-text"></i></a>
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 warming
 </td>
 
