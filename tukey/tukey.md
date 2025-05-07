@@ -1,7 +1,7 @@
 ---
 desc: An image of John Tukey
-rows: 225
-cols: 274
+rows: 274
+cols: 225
 ext: txt
 code: "read.delim('https://raw.githubusercontent.com/IowaBiostat/data-sets/main/tukey/tukey.txt')"
 ---
