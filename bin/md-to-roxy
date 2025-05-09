@@ -1,0 +1,80 @@
+#!/usr/bin/env python3
+"""Convert markdown to Roxygen-compatible document for use in an R package
+
+Usage: md-to-roxy [options] <in> [<out>]
+
+Options:
+  -n     Use NULL instead of "stem" (if keeping data external)
+  -f     Overwrite outfile even if it already exists
+"""
+
+import yaml
+from pathlib import Path
+from docopt import docopt
+arg = docopt(__doc__)
+
+# Parse yaml, arguments
+infile = arg['<in>']
+outfile = arg['<out>']
+stem = Path(infile).stem
+if outfile is None: outfile = stem + '.r'
+yml = next(yaml.load_all(open(infile), Loader=yaml.FullLoader))
+contents = open(infile).read().split('\n')
+start = contents.index('---')
+end = contents.index('---', start + 1)
+md = contents[end + 1:]
+
+# Header
+md.insert(0, yml['desc'])
+
+# Description
+labels = ['### Description', '### Background']
+matches = [i for i, line in enumerate(md) if line in labels]
+if len(matches) == 1:
+    md[matches[0]] = '@description'
+elif len(matches) == 0:
+    raise ValueError("No 'Description' or 'Background' section found.")
+else:
+    raise ValueError("Both 'Description' and 'Background' sections found.")
+
+# Format
+labels = ['### Format', '### Variables']
+matches = [i for i, line in enumerate(md) if line in labels]
+if len(matches) == 1:
+    md[matches[0]] = '@format'
+elif len(matches) == 0:
+    raise ValueError("No 'Format' or 'Variables' section found.")
+else:
+    raise ValueError("Both 'Format' and 'Variables' sections found.")
+
+# Add dimensions
+dim_line = f'A data frame with {yml["rows"]} rows and {yml["cols"]} columns:'
+d = md.index('@format') + 1
+md[d:d] = ['', dim_line]
+
+# Source
+labels = ['### Source', '### Reference']
+matches = [i for i, line in enumerate(md) if line in labels]
+if len(matches) == 1:
+    md[matches[0]] = '@source'
+elif len(matches) == 0:
+    raise ValueError("No 'Source' or 'Reference' section found.")
+else:
+    md[md.index('### Source')] = '@source'
+    md[md.index('### Reference')] = '@reference'
+
+# Remove block quotes if present
+md[:] = [line[2:] if line.startswith('> ') else line for line in md]
+
+# Add name tag
+md.append(f'@name {stem}')
+
+# Add Roxygen markers and export
+rx = ["#' " + x for x in md]
+if arg['-n']:
+    rx.append(f'NULL')
+else:
+    rx.append(f'"{stem}"')
+mode = 'w' if arg['-f'] else 'x'
+with open(outfile, mode) as f:
+    f.write('\n'.join(rx) + '\n')

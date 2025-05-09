@@ -12,7 +12,7 @@ The optimal treatment of cancer patients depends on establishing accurate diagno
 
 In addition to the 144 observations available for training, another 54 observations are available for testing.
 
-### Elements
+### Format
 
 * `y`: A 14-level factor indicating the type of tumor
 * `X`: Gene expression measurement

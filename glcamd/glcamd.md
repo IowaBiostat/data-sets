@@ -19,12 +19,17 @@ This is a subset of the data; it does not consider all 500,000 genetic loci, but
 rather a subset of 497 SNPs from 30 genes that have been previously suggested
 may play a role in AMD.
 
-### Elements
+### Format
 
 * `y`: Disease status: either `'glc'` or `'amd'`
 * `x`: SNP genotype (0/1/2)
-* `group`: For each SNP, this is the nearest gene. There are 30 genes altogether.
+* `group`: For each SNP, this is the nearest gene. There are 30 genes
+  altogether.
 
 ### Reference
 
-> Scheetz TE, Fingert JH, Wang K, Kuehn MH, Knudtson KL, Alward WLM, Boldt HC, Russell SR, Folk JC, Casavant TL Braun TA, Clark AF, Stone EM, and Sheffield VC (2013). A Genome-Wide Association Study for Primary Open Angle Glaucoma and Macular Degeneration Reveals Novel Loci. *PLOS ONE* **8**: e58657. <https://doi.org/10.1371/journal.pone.0058657>
+> Scheetz TE, Fingert JH, Wang K, Kuehn MH, Knudtson KL, Alward WLM, Boldt HC,
+> Russell SR, Folk JC, Casavant TL Braun TA, Clark AF, Stone EM, and Sheffield
+> VC (2013). A Genome-Wide Association Study for Primary Open Angle Glaucoma and
+> Macular Degeneration Reveals Novel Loci. *PLOS ONE* **8**:
+> e58657. <https://doi.org/10.1371/journal.pone.0058657>
