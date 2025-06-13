@@ -303,6 +303,30 @@ Randomized controlled trial of whether bismuth salicylate reduces symptoms of di
 
 <td style="text-align:left;">
 
+fetal-lamb
+</td>
+
+<td style="text-align:left;">
+
+Fetal lamb movements
+</td>
+
+<td style="text-align:center;">
+
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/fetal-lamb/fetal-lamb.txt?download="><i class="bi-cloud-download"></i></a>
+</td>
+
+<td style="text-align:center;">
+
+<a href="fetal-lamb/fetal-lamb.html"><i class="bi-file-text"></i></a>
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 flicker
 </td>
 
