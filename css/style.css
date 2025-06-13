@@ -18,11 +18,10 @@ tt, code, pre {
 
 a {
     color: #ffcd00;
-    text-decoration:none;
+    text-decoration: none;
 }
 a:hover {
-    color: #ffcd00;
-    text-decoration: none;
+    text-decoration: underline;
 }
 h1 {
     font-size: 2.2em;
