@@ -255,6 +255,30 @@ Darwin’s corn experiment on cross-fertilization
 
 <td style="text-align:left;">
 
+covid-states
+</td>
+
+<td style="text-align:left;">
+
+COVID-19 outcomes by state
+</td>
+
+<td style="text-align:center;">
+
+<a href="https://github.com/IowaBiostat/data-sets/raw/main/covid-states/covid-states.txt?download="><i class="bi-cloud-download"></i></a>
+</td>
+
+<td style="text-align:center;">
+
+<a href="covid-states/covid-states.html"><i class="bi-file-text"></i></a>
+</td>
+
+</tr>
+
+<tr>
+
+<td style="text-align:left;">
+
 cystic-fibrosis
 </td>
 
